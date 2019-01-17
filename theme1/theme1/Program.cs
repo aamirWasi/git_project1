@@ -12,6 +12,9 @@ namespace theme1
         {
             Console.WriteLine("New project created");
             Console.WriteLine("sily Correction ");
+            Console.Write("Enter your name :");
+            string name = Console.ReadLine();
+            Console.WriteLine("Hello "+name);
         }
     }
 }
