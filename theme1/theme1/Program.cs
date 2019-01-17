@@ -15,6 +15,7 @@ namespace theme1
             string name = Console.ReadLine();//this will save in name string
             Console.WriteLine("Hello "+name);
             Console.WriteLine("Hi "+name+ " from git");
+            //So try hard to do it
         }
     }
 }
