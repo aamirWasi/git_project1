@@ -11,6 +11,7 @@ namespace theme1
         static void Main(string[] args)
         {
             Console.WriteLine("New project created");
+            Console.WriteLine("sily Correction ");
         }
     }
 }
