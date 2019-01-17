@@ -10,8 +10,8 @@ namespace theme1
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter your name :");
-            string name = Console.ReadLine();
+            Console.Write("Enter your name :");//Enter your username
+            string name = Console.ReadLine();//this will save in name string
             Console.WriteLine("Hello "+name);
             Console.WriteLine("Hi "+name+ " from git");
         }
