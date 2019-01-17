@@ -15,6 +15,7 @@ namespace theme1
             Console.Write("Enter your name :");
             string name = Console.ReadLine();
             Console.WriteLine("Hello "+name);
+            Console.WriteLine("Hi "+name+ " from git");
         }
     }
 }
