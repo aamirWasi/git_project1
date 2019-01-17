@@ -10,6 +10,7 @@ namespace theme1
     {
         static void Main(string[] args)
         {
+            //This is my first git work
             Console.Write("Enter your name :");//Enter your username
             string name = Console.ReadLine();//this will save in name string
             Console.WriteLine("Hello "+name);
